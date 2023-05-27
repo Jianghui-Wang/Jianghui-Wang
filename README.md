@@ -1,1 +1,5 @@
-# Jianghui-Wang
+# Jianghui-Wang's Homepage
+
+Hi! Welcome.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=patrick-tssn&theme=react&show_icons=true&count_private=true)
